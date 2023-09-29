@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61042530008",
+    "project_id": "sudoku-hacktoberfest-6c7b4",
+    "storage_bucket": "sudoku-hacktoberfest-6c7b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61042530008:android:120dc7fd3503d95275a9ad",
+        "android_client_info": {
+          "package_name": "com.example.sudokugame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd8gvaoqxFFq07s-y2Brl327ekIRdcvHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
