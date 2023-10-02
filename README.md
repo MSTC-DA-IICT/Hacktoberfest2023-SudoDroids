@@ -1,5 +1,5 @@
 # Hacktoberfest2023-SudoDroids
-A Sudoku game for Android
+A Sudoku game for Android solve issues in Java/Kotlin Language
 
 This project is a sincere attempt by MSTC, DA-IICT to encourage Open Source contribution. Make the best out of the ongoing Hacktoberfest 2023 by contributing to for-the-community projects. This project participates in Hacktoberest 2023 and all successful PRs made here will be counted, and at least 4 successful pull requests you had to made in order to be eligible for the Hacktoberfest appreciation ( Digital Reward ).
 
