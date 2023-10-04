@@ -12,5 +12,6 @@
     <string name="login_mobile_number_hint">Mobile Number</string>
     <string name="login">LOGIN</string>
     <string name="delete">Delete</string>
+    <string name="logout">Logout</string>
 
 </resources>

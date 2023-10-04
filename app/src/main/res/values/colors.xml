@@ -12,6 +12,7 @@
     <color name="colorAccent">#00A5FF</color>
     <!--colors for modern UI-->
     <color name="whiteTextColor">#FFF</color>
+    <color name="blackTextColor">#000</color>
     <color name="primaryTextColor">#2661FA</color>
     <color name="loginBkColor">#F0F0F0</color>
 
