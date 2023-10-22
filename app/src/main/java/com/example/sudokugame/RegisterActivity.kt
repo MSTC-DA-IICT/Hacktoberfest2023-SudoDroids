@@ -19,6 +19,14 @@ class RegisterActivity : AppCompatActivity() {
         setContentView(binding.root)
         supportActionBar?.title = "Register"
         MainActivity.auth = FirebaseAuth.getInstance()
+
+        val user = MainActivity.auth.currentUser
+
+        if (user != null){
+            startActivity(Intent(this,ActivityPlayGround::class.java))
+            finish()
+        }
+
         binding.loginNow.setOnClickListener{
             startActivity(Intent(this,ActivityLogin::class.java))
             finish()
