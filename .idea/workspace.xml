@@ -9,13 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f5a51d3-2620-44b0-9b4d-657330cf2233" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScreenShots" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/sudokugame/BoardSudoku.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sudokugame/BoardSudoku.kt" afterDir="false" />
-    </list>
+    <list default="true" id="9f5a51d3-2620-44b0-9b4d-657330cf2233" name="Changes" comment="Solved issue at time of loged in..." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,6 +163,14 @@
       <option name="presentableId" value="Default" />
       <updated>1695970947509</updated>
     </task>
+    <task id="LOCAL-00001" summary="Solved issue at time of loged in...">
+      <created>1697996768570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697996768570</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,5 +188,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Solved issue at time of loged in..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved issue at time of loged in..." />
   </component>
 </project>
