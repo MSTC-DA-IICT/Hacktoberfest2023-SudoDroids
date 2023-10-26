@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/opt/android-studio/plugins/android/lib/android.jar!/images/material/icons/materialicons/exit_to_app/baseline_exit_to_app_24.xml" />
+                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/dashboard/baseline_dashboard_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,7 +28,8 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_logout" />
+                            <entry key="outputName" value="baseline_dashboard_24" />
+                            <entry key="sourceFile" value="C:\Users\User\AndroidStudioProjects\Hacktoberfest2023-SudoDroids" />
                           </map>
                         </option>
                       </PersistentState>
